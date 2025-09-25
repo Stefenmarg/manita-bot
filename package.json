@@ -1,0 +1,20 @@
+{
+  "name": "manita-bot",
+  "version": "0.0.1",
+  "description": "Manita is a discord bot created in NodeJS based on the DiscordJS library",
+  "homepage": "https://github.com/Stefenmarg/manita-bot#readme",
+  "bugs": {
+    "url": "https://github.com/Stefenmarg/manita-bot/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Stefenmarg/manita-bot.git"
+  },
+  "license": "MIT",
+  "author": "Stefenmarg",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node --watch index.js"
+  }
+}
